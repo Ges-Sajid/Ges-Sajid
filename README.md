@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajid Ali</h1>
-<h3 align="center">A Sr. Frontend/HubSpot developer</h3>
+<h3 align="center">Sr. Frontend/HubSpot developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ges-sajid&label=Profile%20views&color=0e75b6&style=flat" alt="ges-sajid" /> </p>
 
@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ges-sajid&show_icons=true&title_color=ffffff&icon_color=4AB197&text_color=c9cacc&bg_color=1A2B34" alt="ges-sajid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ges-sajid&" alt="ges-sajid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ges-sajid" alt="ges-sajid" /></p>
